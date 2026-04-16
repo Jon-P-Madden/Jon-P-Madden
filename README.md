@@ -1,6 +1,6 @@
 Hi, I'm Jon Madden
 Senior Technical Program Manager — 17+ years delivering complex platform integrations in fintech, regulated financial systems, and institutional environments.
-I operate at the intersection of technology, compliance, and business delivery. I don't just manage engineers — I understand what they're building.
+I operate at the intersection of technology, compliance, and business delivery. I don't just manage engineers — I understand what they're building. I guess I want to be one too!
 
 What I Work On
 
@@ -9,10 +9,17 @@ Regulated platform delivery — PCI-DSS, IAM, EMV, ERP in financial and institut
 Program recovery & execution — taking fragmented, high-risk initiatives and making them ship
 
 
-Featured Project
-🔧 TPM Application Engine
+Current Project
+🔧 Application Engine
 A browser-based AI job application tool built on the Anthropic Claude API. Single HTML file. No backend. No subscription.
 Analyzes job postings against your resume, surfaces ATS keyword gaps, generates tailored resumes and cover letters, and tracks your application pipeline — all in one tab.
+
+Built to solve a real problem. Documented as a TPM case study.
+
+Current Project
+🔧 Resume Engine
+A browser-based AI job resume tool built on the Anthropic Claude API. Single HTML file. No backend. No subscription.
+Analyzes job experience and career path then generates tailored resumes. Those resumes can then be placed into the Application Engine.
 
 Built to solve a real problem. Documented as a TPM case study.
 
