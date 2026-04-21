@@ -1,45 +1,42 @@
-Hi, I'm Jon Madden
-Senior Technical Program Manager — 17+ years delivering complex platform integrations in fintech, regulated financial systems, and institutional environments.
-I operate at the intersection of technology, compliance, and business delivery. I don't just manage engineers — I understand what they're building. I guess I want to be one too!
+# Hi, I'm Jon Madden
 
-What I Work On
+**Senior Technical Program Manager** — 17+ years delivering complex platform integrations in fintech, regulated financial systems, and institutional environments.
 
-AI-powered workflow tools — building directly on LLM APIs to solve real operational problems
-Regulated platform delivery — PCI-DSS, IAM, EMV, ERP in financial and institutional environments
-Program recovery & execution — taking fragmented, high-risk initiatives and making them ship
+I operate at the intersection of technology, compliance, and business delivery. I don't just manage engineers — I understand what they're building.
 
+---
 
-Current Project
-🔧 Application Engine
-A browser-based AI job application tool built on the Anthropic Claude API. Single HTML file. No backend. No subscription.
-Analyzes job postings against your resume, surfaces ATS keyword gaps, generates tailored resumes and cover letters, and tracks your application pipeline — all in one tab.
+## Make Me! — AI-Powered Job Search Suite
 
-Built to solve a real problem. Documented as a TPM case study.
+I'm building **Make Me!** — a suite of AI-powered job search tools built directly on the Anthropic Claude API.
 
-Current Project
-🔧 Resume Engine
-A browser-based AI job resume tool built on the Anthropic Claude API. Single HTML file. No backend. No subscription.
-Analyzes job experience and career path then generates tailored resumes. Those resumes can then be placed into the Application Engine.
+| Engine | Repo | Purpose |
+|--------|------|---------|
+| Engine 1 | [Resume Positioning Engine](https://github.com/Jon-P-Madden/resume-positioning-engine) | Turn raw career history into a strategically targeted resume |
+| Engine 2 | [Application Engine](https://github.com/Jon-P-Madden/application-engine) | Analyze job postings, tailor resumes, generate cover letters, track pipeline |
 
-Built to solve a real problem. Documented as a TPM case study.
+> Most tools format resumes. Make Me! positions candidates.
 
+---
 
-Background
+## Background
 
-Fintech & regulated systems — payment credentialing, loan servicing, IAM, PCI-DSS compliance at ICE/Black Knight and Entrust Datacard
-Higher education IT — enterprise ERP, IAM, and AI workflow delivery at Texas Southern University
-Campus payments — 50+ higher education implementations at Heartland Payment Systems
+- **Fintech & regulated systems** — payment credentialing, loan servicing, IAM, PCI-DSS at ICE/Black Knight and Entrust Datacard
+- **Higher education IT** — enterprise ERP, IAM, and AI workflow delivery at Texas Southern University
+- **Campus payments** — 50+ higher education implementations at Heartland Payment Systems
 
+---
 
-Currently Exploring
+## Also Building
+
+- 🔧 **Cyclorotor aircraft** — full mechanical design in Fusion 360, 80% prototyped via FDM 3D printing, custom C firmware with PID control loop and SPI encoder integration
+
+---
+
+## Currently Exploring
+
 AI delivery roles at fintech companies building in regulated environments — where domain expertise and technical depth both matter.
 
-📍 Houston, TX  |  LinkedIn  |  MaddenJonP@gmail.com
+---
 
-- 🔧 I'm currently working on ... expanding my AI tooling portfolio
-- 🌱 I'm currently learning ... AI agent frameworks and LLM API patterns
-- 👯 I'm looking to collaborate on ... AI workflow tools for regulated industries
-- 💬 Ask me about ... TPM in fintech, PCI-DSS delivery, or building with the Anthropic API
-- 📫 How to reach me: ... MaddenJonP@gmail.com
-- ⚡ Fun fact: ... I'm also building a cyclorotor aircraft from scratch
--->
+📍 Houston, TX &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/jonathan-p-madden) &nbsp;|&nbsp; MaddenJonP@gmail.com
