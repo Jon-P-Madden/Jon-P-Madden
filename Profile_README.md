@@ -18,7 +18,7 @@ Most career tools focus on activity tracking or resume formatting. **Make Me! fo
 |--------|--------|---------|
 | 1 — [Resume Positioning Engine](https://github.com/Jon-P-Madden/resume-positioning-engine) | ✅ Built | Turn raw career history into a strategically positioned resume |
 | 2 — [Application Engine](https://github.com/Jon-P-Madden/application-engine) | ✅ Built | Analyze job postings, tailor application materials, generate cover letters, track applications |
-| 3 — LinkedIn Optimization Engine | 🔲 Planned | Optimize LinkedIn profiles for recruiter searchability and credibility |
+| 3 — LinkedIn Optimization Engine | ✅ Built | Optimize LinkedIn profiles for recruiter searchability and credibility |
 | 4 — Interview Prep Engine | 🔲 Planned | Generate likely questions, STAR stories, and role-specific prep |
 | 5 — Salary Negotiation Engine | 🔲 Planned | Compensation strategy, counteroffers, and negotiation messaging |
 | 6 — Recruiter Outreach Engine | 🔲 Planned | Recruiter, referral, and networking outreach |
